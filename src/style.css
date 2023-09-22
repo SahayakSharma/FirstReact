@@ -1,0 +1,63 @@
+.editarea{
+    height: 400px;
+    width: 1400px;
+    /* background-image: url(https://img.freepik.com/free-vector/business-presentation-banner-with-blue-geometric-shape_1017-32330.jpg?w=2000); */
+    background-size:cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px 5px 5px 5px;
+}
+.textinsideimage{
+    padding-top: 120px;
+    /* text-align: right; */
+    /* justify-content: center; */
+    margin-top: auto;
+    color: black;
+    font-size: 70px;
+    font-weight: bold;
+    /* align-items: center; */
+}
+.descinsideimage{
+    
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+label{
+    background-color: rgb(175, 175, 175);
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    border: 0.25px solid rgb(112, 112, 112);
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight:500;
+}
+.heading{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.gallerypart{
+    background-color: rgb(236, 234, 234);
+    border-radius: 10px 10px 10px 10px;
+    /* padding: 10px 10px 10px 10px; */
+    padding-top: 40px;
+    /* padding-bottom: 20px; */
+    height: 300px;
+    width: 1100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.imageingallery{
+    margin-bottom: 10px;
+    border-radius: 5px 5px 5px 5px;
+}
+.gallery-button{
+    margin-left: 870px;
+}
